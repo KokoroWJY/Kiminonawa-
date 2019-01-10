@@ -17,6 +17,7 @@ public class ClassZhangEight {
             }else {
                 System.out.println(b[i]);
             }
+
         }
         int d = 0;
         for (int i = 0; i < 7; i++){
