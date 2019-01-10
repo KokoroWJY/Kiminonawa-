@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloW.iml" filepath="$PROJECT_DIR$/HelloW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoocClass/MoocClass.iml" filepath="$PROJECT_DIR$/MoocClass/MoocClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoocHomework/MoocHomework.iml" filepath="$PROJECT_DIR$/MoocHomework/MoocHomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diyizhou/diyizhou.iml" filepath="$PROJECT_DIR$/diyizhou/diyizhou.iml" />
+    </modules>
+  </component>
+</project>
