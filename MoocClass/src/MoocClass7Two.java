@@ -17,5 +17,6 @@ public class MoocClass7Two {
         sum(1, 10);
         sum(20, 30);
         sum(35, 45);
+        System.out.print("Hello");
     }
 }
