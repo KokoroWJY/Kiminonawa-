@@ -11,11 +11,11 @@ public class ClassZhangFour {
         int a = (int) ((i % 100000000) / 10000);
         int d = b - a;
         if (d > 12 && i != 0) {
-            System.out.println("成人票--全价");
+            System.out.println("Adult Ticket: Passenger over 12, Full price");
         } else if (d > 2 && d < 12 && i != 0) {
-            System.out.println("儿童票--50%off");
+            System.out.println("Children Ticket: kids 2-12, Save 50%");
         } else if (d < 2 && i != 0){
-            System.out.println("婴儿票--90%off");
+            System.out.println("Infant Ticket: infant under 2, Ride free");
         }
     }
 
