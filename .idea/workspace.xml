@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="277bad15-c715-4560-851e-6f5918ef463b" name="Default Changelist" comment="你好世界!!">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/src/ClassZhangFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class/src/ClassZhangFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Freshman/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Freshman/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Freshman/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Freshman/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Freshman/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Freshman/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Freshman/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/Freshman/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Freshman/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Freshman/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Class/ClassZhangFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Class/ClassZhangFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Freshman/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Freshman/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Freshman/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Freshman/Rectangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Kiminonawa-" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,62 +47,68 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550125922372" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java code\Kiminonawa-\Class\gouzaofangfa" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\Kiminonawa-\Valentine's Day\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassZhangFour">
-    <configuration name="ClassZhangFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassZhangFive" />
-      <module name="Class" />
+  <component name="RunManager" selected="Application.TestAccount">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Car" />
+      <module name="Freshman" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassZhangFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassZhangFour" />
-      <module name="Class" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
+      <module name="Freshman" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shen.Frame" />
-      <module name="Valentine's Day" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="shen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point" />
+      <module name="Freshman" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameOne" />
-      <module name="HelloW" />
+    <configuration name="TestAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAccount" />
+      <module name="Freshman" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoocClass7Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoocClass7Two" />
-      <module name="MoocClass" />
+    <configuration name="TestCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCar" />
+      <module name="Freshman" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClassZhangFour" />
-        <item itemvalue="Application.Frame" />
-        <item itemvalue="Application.ClassZhangFive" />
-        <item itemvalue="Application.GameOne" />
-        <item itemvalue="Application.MoocClass7Two" />
+        <item itemvalue="Application.TestAccount" />
+        <item itemvalue="Application.TestCar" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.Point" />
+        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +134,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544410332023</updated>
-      <workItem from="1576936280711" duration="253000" />
+      <workItem from="1576936280711" duration="605000" />
+      <workItem from="1577168916609" duration="11000" />
+      <workItem from="1577600129189" duration="117000" />
+      <workItem from="1577600299739" duration="73000" />
+      <workItem from="1577600455886" duration="180000" />
+      <workItem from="1577929507923" duration="8000" />
+      <workItem from="1578116194154" duration="8000" />
+      <workItem from="1578378962241" duration="54000" />
+      <workItem from="1581917345953" duration="7529000" />
+      <workItem from="1581929673765" duration="36000" />
+      <workItem from="1581929854182" duration="51000" />
+      <workItem from="1581983651161" duration="576000" />
+      <workItem from="1582027077449" duration="4226000" />
+      <workItem from="1582074303084" duration="3125000" />
+      <workItem from="1582082628066" duration="4000" />
+      <workItem from="1582105111822" duration="731000" />
     </task>
     <task id="LOCAL-00001" summary="你好世界!!">
       <created>1547116003722</created>
@@ -140,7 +172,28 @@
       <option name="project" value="LOCAL" />
       <updated>1549013343238</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="你好世界!!">
+      <created>1576936743775</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576936743776</updated>
+    </task>
+    <task id="LOCAL-00005" summary="构造方法">
+      <created>1581984047224</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581984047224</updated>
+    </task>
+    <task id="LOCAL-00006" summary="构造方法">
+      <created>1582076276353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582076276353</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,50 +201,53 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="你好世界!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="你好世界!!" />
+    <MESSAGE value="构造方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="构造方法" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1576936632220">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1581917448718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576936632220" />
-    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1576936632219">
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1581917448718" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1581919610833">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576936632219" />
-    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1576936632219">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581919610833" />
+    <state x="481" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582035678995">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576936632219" />
-    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1576936632220">
+    <state x="481" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1582035678995" />
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1582157035442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576936632220" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="Copyright.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582157035442" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1582077435757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582077435757" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1582077435757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582077435757" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1582077435757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582077435757" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1582077435757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582077435757" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582157039143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582157039143" />
+    <state x="178" y="22" key="new project wizard" timestamp="1581917435642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581917435642" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582074696199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582074696199" />
   </component>
 </project>
