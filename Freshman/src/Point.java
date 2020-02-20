@@ -19,5 +19,4 @@ public class Point {
         System.out.println("x: " + p2.x + "\ny: " + p2.y);
         p2.move(0, 0);
     }
-
 }
